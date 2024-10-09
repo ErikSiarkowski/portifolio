@@ -3,7 +3,7 @@
 
 Você pode visualizar o site de exemplo no seguinte link:
 
-👉 [Visualizar Site Exemplo](https://silly-pastelito-c73724.netlify.app)
+👉 [Visualizar Site](https://eriksiarkowski.github.io/portifolio/#inicio)
 
 ## 🚀 Funcionalidades
 
